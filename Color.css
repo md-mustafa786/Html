@@ -1,0 +1,107 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: white;
+}
+.main_div{
+
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.first{
+   
+    height: 20%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2px;
+}
+
+p{
+    color: grey;
+}
+.dive_one{
+   background-color: aliceblue;
+   
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   height: 96%;
+   width: 33.4%;
+   margin: 5px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.dive_two{
+    background-color: antiquewhite;
+
+}
+
+.dive_three{
+    background-color: aqua; 
+}
+
+.dive_four{
+    background-color: aquamarine; 
+}
+
+.dive_five{
+    background-color: azure; 
+}
+
+.dive_six{
+    background-color: beige; 
+}
+
+.dive_seven{
+    background-color: bisque; 
+}
+
+.dive_eight{
+    background-color: black; 
+    color: whitesmoke;
+    
+}
+
+.dive_nine{
+    background-color: blanchedalmond; 
+}
+
+.dive_ten{
+    background-color: blue; 
+    color: whitesmoke;
+}
+
+.dive_ele{
+    background-color: blueviolet; 
+    color: whitesmoke;
+}
+
+.dive_twe{
+    background-color: brown;
+    color: whitesmoke; 
+}
+
+.dive_thi{
+    background-color: burlywood; 
+}
+
+.dive_fort{
+    background-color: cadetblue; 
+    color: whitesmoke;
+}
+.dive_fif{
+    background-color: chartreuse; 
+}
+
