@@ -9,8 +9,9 @@ body{
     justify-content: center;
 }
 .main{
-    border: 10px solid red;
+    border: 5px solid black;
     width: 50%;
+   padding: 15px;
    
 }
 h1{
@@ -22,13 +23,86 @@ h1{
 .p{
     font-size: 3rem;
 }
-
+hr{
+    border: 1px solid rgba(0, 0, 0, 0.542);
+}
 .a{
     display: flex;
-    gap: 13rem;
+    gap: 10rem;
    font-size: 3rem;
    font-weight: bold;
 }
 .b{
     border: 10px solid black;
+}
+
+.am{
+    font-weight: bold;
+    font-size: 2rem;
+}
+.c{
+    /* border: 2px solid red; */
+    display: flex;
+    gap : 17rem
+    
+}
+
+.d{
+    border: 5px solid black;  
+}
+.e{
+    font-weight: bold;
+    font-size: 2.5rem;
+    text-align-last: end;
+}
+.f{
+    display: flex;
+    gap: 22rem;
+    font-size: 2.5rem;
+}
+.g{
+    display: flex;
+    font-size: 2.5rem;
+    gap: 21rem
+}
+p{
+    font-size: 2.5rem;
+}
+
+
+.k{
+    font-size: 2.5rem;
+}
+.l{
+    display: flex;
+    gap: 10rem;
+    font-size: 2.5rem;
+}
+.fat{
+    display: flex;
+    gap: 22rem;
+    font-size: 2.5rem;
+}
+.cho{
+    display: flex;
+    gap: 20rem;
+    font-size: 2.5rem;
+}
+.vi{
+    display: flex;
+    font-size: 2.5rem;
+    gap: 21rem
+}
+.n{
+    display: flex;
+    font-size: 2.5rem;
+    gap: 30rem
+}
+.v{
+    display: flex;
+    font-size: 2.5rem;
+    gap: 28rem
+}
+.para{
+    font-size: 1.8rem;
 }
