@@ -28,11 +28,11 @@ hr{
 }
 .a{
     display: flex;
-    gap: 10rem;
+    justify-content: space-between;
    font-size: 3rem;
    font-weight: bold;
 }
-.b{
+.border_line1{
     border: 10px solid black;
 }
 
@@ -43,11 +43,11 @@ hr{
 .c{
     /* border: 2px solid red; */
     display: flex;
-    gap : 17rem
+    justify-content: space-between;
     
 }
 
-.d{
+.border_line2{
     border: 5px solid black;  
 }
 .e{
@@ -55,54 +55,18 @@ hr{
     font-size: 2.5rem;
     text-align-last: end;
 }
-.f{
-    display: flex;
-    gap: 22rem;
-    font-size: 2.5rem;
-}
-.g{
-    display: flex;
-    font-size: 2.5rem;
-    gap: 21rem
-}
+
 p{
     font-size: 2.5rem;
 }
 
+.flex{
+    display: flex;
+    justify-content: space-between;
+    font-size: 2.5rem;
+}
 
-.k{
-    font-size: 2.5rem;
-}
-.l{
-    display: flex;
-    gap: 10rem;
-    font-size: 2.5rem;
-}
-.fat{
-    display: flex;
-    gap: 22rem;
-    font-size: 2.5rem;
-}
-.cho{
-    display: flex;
-    gap: 20rem;
-    font-size: 2.5rem;
-}
-.vi{
-    display: flex;
-    font-size: 2.5rem;
-    gap: 21rem
-}
-.n{
-    display: flex;
-    font-size: 2.5rem;
-    gap: 30rem
-}
-.v{
-    display: flex;
-    font-size: 2.5rem;
-    gap: 28rem
-}
+
 .para{
     font-size: 1.8rem;
 }
